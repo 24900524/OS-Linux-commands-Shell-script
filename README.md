@@ -1352,8 +1352,7 @@ print "No of Words count:",wordcount
 }
  ```
 cat>data.dat
-```
-bash
+```bash
 bcdfghj
 abcdfghj
 bcdfghj
@@ -1373,8 +1372,7 @@ total characters 75
  No of Words count: 10
 ```
 cat > palindrome.sh
-```
-bash
+```bash
 #num=545
 echo "Enter the number"
 read num
